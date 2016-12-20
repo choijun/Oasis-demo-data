@@ -1,0 +1,12 @@
+{
+  "shop_layout": "col-1c",
+  "main_full_width": "yes",
+  "column_per_row": {
+    "xlg" : 5,
+    "lg" : 4,
+    "md" : 4,
+    "sm" : 2,
+    "xs" : 1
+  },
+  "custom_css": ".site-header-inner {border-bottom: 1px solid #e5e7eb;}.widget_product_categories ul.product-categories ul {display: none;}.widget_product_categories > ul > li{margin-bottom:0}"
+}

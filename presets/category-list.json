@@ -1,0 +1,5 @@
+{
+  "shop_layout": "col-2cr",
+  "catalog_display_type": "list",
+  "custom_css": ".site-header-inner {border-bottom: 1px solid #e5e7eb;}"
+}

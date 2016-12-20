@@ -1,0 +1,207 @@
+{
+  "jr-insta-shortcodes": {
+    "jr_insta_slider-2": {
+      "title": "Instagram Slider",
+      "search_for": "hashtag",
+      "username": "",
+      "hashtag": "lastudio_oasis_kids",
+      "blocked_users": "",
+      "source": "instagram",
+      "attachment": null,
+      "template": "thumbs-no-border",
+      "images_link": "image_url",
+      "custom_url": "",
+      "orderby": "date-ASC",
+      "images_number": "12",
+      "columns": "6",
+      "refresh_hour": "5",
+      "image_size": "jr_insta_square",
+      "image_link_rel": "",
+      "image_link_class": "",
+      "no_pin": null,
+      "controls": "none",
+      "animation": "slide",
+      "caption_words": "100",
+      "slidespeed": "7000",
+      "description": null,
+      "classes": ""
+    }
+  },
+  "sidebar-primary": {
+    "woocommerce_product_search-3": {
+      "title": "",
+      "classes": ""
+    },
+    "woocommerce_product_categories-3": {
+      "title": "Categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 1,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "classes": ""
+    },
+    "woocommerce_products-3": {
+      "title": "New arrival",
+      "number": 5,
+      "show": "",
+      "orderby": "date",
+      "order": "desc",
+      "hide_free": 0,
+      "show_hidden": 0,
+      "classes": ""
+    },
+    "text-11": {
+      "title": "Recent Blog",
+      "text": "[la_show_posts layout=\"grid\" excerpt_length=\"10\" style=\"all\" per_page=\"3\" column=\"xlg:1;lg:1;md:1;sm:1;xs:1;\"]",
+      "filter": false,
+      "classes": ""
+    }
+  },
+  "sidebar-shop-primary": {
+    "woocommerce_product_search-2": {
+      "title": "",
+      "classes": ""
+    },
+    "woocommerce_product_categories-2": {
+      "title": "Categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 1,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "classes": ""
+    },
+    "woocommerce_layered_nav_filters-3": {
+      "title": "Active Filters",
+      "classes": ""
+    },
+    "woocommerce_price_filter-2": {
+      "title": "By price",
+      "classes": ""
+    },
+    "woocommerce_layered_nav-2": {
+      "title": "By Color",
+      "attribute": "color",
+      "display_type": "swatches",
+      "query_type": "and",
+      "classes": ""
+    },
+    "woocommerce_layered_nav-3": {
+      "title": "By Size",
+      "attribute": "size",
+      "display_type": "list",
+      "query_type": "and",
+      "classes": "filter-by-size"
+    },
+    "woocommerce_products-2": {
+      "title": "New Arrival",
+      "number": 5,
+      "show": "",
+      "orderby": "date",
+      "order": "desc",
+      "hide_free": 0,
+      "show_hidden": 0,
+      "classes": ""
+    }
+  },
+  "footer-area-1": {
+    "text-6": {
+      "title": "",
+      "text": "<p>\r\n<strong style=\"font-size:12px;display: block;\">OUR LOCATION:<\/strong>\r\n<span>869 General Village Apt. 645, Moorebury<\/span>\r\n<\/p>\r\n<p>\r\n<strong style=\"font-size:12px;display: block;\">24\/7 HOTLINE:<\/strong>\r\n<span>(+99) 052 128 2399<\/span>\r\n<\/p>",
+      "filter": false,
+      "classes": ""
+    },
+    "text-7": {
+      "title": "",
+      "text": "<p><a href=\"http:\/\/oasis.la-studioweb.com\/\"><img src=\"http:\/\/oasis.la-studioweb.com\/wp-content\/uploads\/2016\/10\/logo_footer.png\" alt=\"\"\/><\/a><\/p>\r\n<p style=\"font-size:12px\">Copyright Oasis 2017. All Rights Reserved.<br\/>Designed by LA Studio.<\/p>",
+      "filter": false,
+      "classes": "text-center"
+    },
+    "text-8": {
+      "title": "Follow Us On",
+      "text": "[la_social_link style=\"circle\"]",
+      "filter": false,
+      "classes": "text-right"
+    }
+  },
+  "footer-area-2": {
+    "text-2": {
+      "title": "",
+      "text": "<a href=\"http:\/\/oasis.la-studioweb.com\/\"><img src=\"http:\/\/oasis.la-studioweb.com\/wp-content\/uploads\/2016\/10\/logo_white.png\" alt=\"\"\/><\/a>\r\n<div class=\"padding-top-30 padding-bottom-50\">Meet a ecommerce wordpress theme that can build everything you can imagine. Unique design comes with powerful features will make your website stand out.\r\n<\/div>\r\n[la_social_link]",
+      "filter": false,
+      "classes": "col-xs-12 col-sm-6 col-md-4"
+    },
+    "nav_menu-2": {
+      "title": "COMPANY",
+      "nav_menu": 8,
+      "classes": "col-xs-12 col-sm-6 col-md-2 col-md-offset-1"
+    },
+    "nav_menu-3": {
+      "title": "SHOP",
+      "nav_menu": 9,
+      "classes": "col-xs-12 col-sm-6 col-md-2"
+    },
+    "jr_insta_slider-3": {
+      "title": "INSTAGRAM",
+      "search_for": "hashtag",
+      "username": "",
+      "hashtag": "lastudio_oasis_kids",
+      "blocked_users": "",
+      "source": "instagram",
+      "attachment": null,
+      "template": "thumbs",
+      "images_link": "image_url",
+      "custom_url": "",
+      "orderby": "rand",
+      "images_number": "6",
+      "columns": "3",
+      "refresh_hour": "6",
+      "image_size": "jr_insta_square",
+      "image_link_rel": "",
+      "image_link_class": "",
+      "no_pin": null,
+      "controls": "prev_next",
+      "animation": "slide",
+      "caption_words": "100",
+      "slidespeed": "7000",
+      "description": [
+        "username",
+        "time",
+        "caption"
+      ],
+      "classes": "col-xs-12 col-sm-6 col-md-3"
+    }
+  },
+  "footer-area-3": {
+    "nav_menu-5": {
+      "title": "QUICK LINKS",
+      "nav_menu": 33,
+      "classes": ""
+    },
+    "nav_menu-6": {
+      "title": "GET TO KNOW",
+      "nav_menu": 34,
+      "classes": ""
+    },
+    "nav_menu-7": {
+      "title": "SHOPPING GUIDE",
+      "nav_menu": 35,
+      "classes": ""
+    },
+    "text-9": {
+      "title": "GET IN TOUCH",
+      "text": "<div class=\"top-area-items block-title-inside\">\r\n    <div class=\"top-area-block top-area-contacts\">\r\n        <div class=\"la-contacts-item la-contacts-address\"><span>Our Location:<\/span><span>869 General Village Apt. 645, Moorebury<\/span><\/div>\r\n        <div class=\"la-contacts-item la-contacts-phone\"><span>24\/7 Hotline:<\/span><span>(+99) 052 128 2399<\/span><\/div>\r\n    <\/div>\r\n<\/div>",
+      "filter": false,
+      "classes": ""
+    },
+    "text-10": {
+      "title": "WE'RE SOCIAL",
+      "text": "[la_social_link style=\"circle\"]",
+      "filter": false,
+      "classes": ""
+    }
+  }
+}
