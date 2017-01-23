@@ -49,8 +49,20 @@ class Oasis_Data_Demo_Plugin_Class{
         }
 
         add_action('LaStudio_Importer/copy_image', array( $this, 'copyImages') );
+        
+        add_filter( 'upload_mimes', array( $this, 'add_mime_type_xml' ) );
     }
 
+	/**
+	 * Add .xml files as supported format in the uploader.
+	 *
+	 * @param array $mimes Already supported mime types.
+	 */
+	public function add_mime_type_xml( $mimes ) {
+		$mimes = array_merge( $mimes, array( 'xml' => 'application/xml' ) );
+
+		return $mimes;
+	}
     public function copyImages(){
         if(file_exists(plugin_dir_path(__FILE__) . 'demo-data/images.zip')){
             $theme_name = sanitize_key(wp_get_theme()->get('Name'));
